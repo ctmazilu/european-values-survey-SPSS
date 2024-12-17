@@ -12,8 +12,8 @@ Using the European Values Study for Great Britain (ESV, 2018) in SPSS to answer 
   - [Dataset]
   - [Variable description](#variable-description)
 - [Analysis]
-  - [Univarite Analysis](#Univarite-Analysis)
-  - [Bivariate Analysis]
+  - [Univariate Analysis](#univariate-Analysis)
+  - [Bivariate Analysis](#bivariate-analysis)
 - [Ethical Approval](#ethical-approval)
 - [References](#references)
 - [Copyright](#copyright)
