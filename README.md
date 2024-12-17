@@ -109,8 +109,8 @@ Moderately essential, Very essential, An essential characteristic). This was don
 ### Table 4
 *Frequency table for if women have the same rights as men (recode).*
 
-| | Category               | Frequency | Percent | Valid Percent | Cumulative Percent |
-|--||------------------------|-----------|---------|---------------|--------------------|
+|   | Category               | Frequency | Percent | Valid Percent | Cumulative Percent |
+|--|------------------------|-----------|---------|---------------|--------------------|
 | Valid  |                   |           |         |               |                    |
 | |Not essential          | 20        | 1.1     | 1.1           | 1.1                |
 | |Somewhat essential     | 26        | 1.5     | 1.5           | 2.6                |
