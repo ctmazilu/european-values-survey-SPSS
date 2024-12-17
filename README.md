@@ -109,18 +109,18 @@ Moderately essential, Very essential, An essential characteristic). This was don
 ### Table 4
 *Frequency table for if women have the same rights as men (recode).*
 
-| Category               | Frequency | Percent | Valid Percent | Cumulative Percent |
-|------------------------|-----------|---------|---------------|--------------------|
-| Valid                  |           |         |               |                    |
-| Not essential          | 20        | 1.1     | 1.1           | 1.1                |
-| Somewhat essential     | 26        | 1.5     | 1.5           | 2.6                |
-| Moderately essential   | 113       | 6.3     | 6.4           | 9.0                |
-| Very essential         | 214       | 12.0    | 12.1          | 21.1               |
-| An essential           | 1394      | 78.0    | 78.9          | 100.0              |
-| Total                  | 1767      | 98.8    | 100.0         |                    |
-| Missing                |           |         |               |                    |
-| System                 | 21        | 1.2     |               |                    |
-| Total                  | 1788      | 100.0   |               |                    |
+| | Category               | Frequency | Percent | Valid Percent | Cumulative Percent |
+|--||------------------------|-----------|---------|---------------|--------------------|
+| Valid  |                   |           |         |               |                    |
+| |Not essential          | 20        | 1.1     | 1.1           | 1.1                |
+| |Somewhat essential     | 26        | 1.5     | 1.5           | 2.6                |
+| |Moderately essential   | 113       | 6.3     | 6.4           | 9.0                |
+| |Very essential         | 214       | 12.0    | 12.1          | 21.1               |
+| |An essential           | 1394      | 78.0    | 78.9          | 100.0              |
+| |Total                  | 1767      | 98.8    | 100.0         |                    |
+| Missing  |              |           |         |               |                    |
+| |System                 | 21        | 1.2     |               |                    |
+| |Total                  | 1788      | 100.0   |               |                    |
 
 ### Figure 1
 *Graphical representation for if womenrightsRecode.*
