@@ -1,6 +1,6 @@
 # Univarite Analysis
 
-# Calculate relevant univariate descriptive statistics (measures of central tendency and dispersion) and generate an appropriate graphical representation for each of your two variables and insert them here.
+Calculate relevant univariate descriptive statistics (measures of central tendency and dispersion) and generate an appropriate graphical representation for each of your two variables and insert them here.
 
 ### Table 3
 *Descriptive statistics for if women have the same rights as men (recode).*
