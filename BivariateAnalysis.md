@@ -23,7 +23,7 @@ a. 7 cells (35.0%) have expected count less than 5. The minimum expected count i
 Symmetric Measures for womenrightsRecode and democracy
 
 |  | | Value                      | Asymptotic Standard Errora | Approximate Tb | Approximate Significance |
-|-----|----------------------------|----------------------------|-----------------|--------------------------|
+|--|-----|----------------------------|----------------------------|-----------------|--------------------------|
 | Nominal by Nominal  | Phi          | 0.304            |                 | <.001                    |
 | Nominal by Nominal  | Cramer's V                 | 0.175                      |                 | <.001                    | 
 | Interval by Interval| Pearson's R                | -0.257                     | 0.031           | -11.070                  | <.001c    |
