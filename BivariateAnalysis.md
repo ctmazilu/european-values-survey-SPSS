@@ -27,7 +27,6 @@ Symmetric Measures for womenrightsRecode and democracy
 | Nominal by Nominal  | Phi          | 0.304            |                 | <.001                    |
 | Nominal by Nominal  | Cramer's V                 | 0.175                      |                 | <.001                    | 
 | Interval by Interval| Pearson's R                | -0.257                     | 0.031           | -11.070                  | <.001c    |
-| Ordinal by Ordinal         |                            |                 |                          |
 |Ordinal by Ordinal| Spearman Correlation       | -0.246                     | 0.025           | -10.583                  | <.001c                   |
 | N of Valid Cases           | 1735                       |    -             |           -               |-|
 
