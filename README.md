@@ -35,8 +35,9 @@ It must be kept in mind that the data is not inclusive of all gender identity, a
 ## Hypothesis 
 Both variables are *ordinal* therefore a *crosstabulation* will be conducted. It could go both ways, democracy could influence womenrights;womenrights could influence democracy.
 
->**Independent variable:** democracy 
->**Dependent variable:** womenrightsRecode
+> **Independent variable:** democracy
+> 
+> **Dependent variable:** womenrightsRecode
 
 **Null Hypothesis H0:** There is no significant relationship between perceived quality of democratic political system and perceived women rights compared to men.
 **Alternative Hypothesis H1:** There is a significantrelationshipbetweenperceivedqualityofdemocratic political system and perceived women rights compared to men.
