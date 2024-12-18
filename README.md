@@ -47,9 +47,11 @@ There are 181 variables (including 4 variables which have been recoded for this 
 
 ## Variable description 
 
-Variable Name: democracy (variable 122),
-Variable label: Political system: Having a democratic political system Level of Measurement: Ordinal
-Value Label: (negative values are not used in the analysis) 
+#### **Variable Name:** democracy (variable 122)
+
+**Variable label:** Political system: Having a democratic political system Level of Measurement: Ordinal
+
+**Value Label:** (negative values are not used in the analysis) 
 
 ### Table 1
 
@@ -60,23 +62,39 @@ Value Label: (negative values are not used in the analysis)
 | 3     | Fairly Bad    |
 | 4     | Very Bad      |
 
+**Value Recoded:** Does not need recoding due to the variables already capturing the essential data points necessary to conduct a bivariate analysis.
 
-Variable Name: womenrights (variable 130)
-Variable Label: Democracy: Women have the same rights as men. Level of Measurement: Ordinal
-Value Label: (negative values are not used in the analysis) Old Valyes
 
-## Recoded Variables
-Variable Name: womenrightsRecode:
-Variable Label: Democracy: Women have the same rights as men. Is this a essential characteristic of democracy?
-Level of Measurement: Ordinal Value Label:
+#### **Variable Name:** womenrights (variable 130)
 
-I did not recode democracy due to the variables already capturing the essential data points necessary to conduct a bivariate analysis.
-I have recoded the variable womenrights into womenrightsRecode. I decided to recode the 10 categories into 5 categories (Not essential, Somewhat essential,
+**Variable Label:** Democracy: Women have the same rights as men. Is this a essential characteristic of democracy?
+
+**Level of Measurement:** Ordinal
+
+**Value Label:** (negative values are not used in the analysis, needs recoded see next section.)
+
+### Table 2.1
+
+| Value | Label                                                         | 
+|-------|---------------------------------------------------------------|
+| 0     | (It is against democracy 1 (spontaneous))                     | 
+| 1     | (Not an essential characteristic of democracy)                | 
+| 2     | 2                                                              | 
+| 3     |  3                                                             | 
+| 4     |  4                                                             | 
+| 5     |  5                                                             | 
+| 6     |  6                                                             | 
+| 7     |  7                                                             | 
+| 8     |  8                                                             | 
+| 9     |   9                                                            | 
+| 10    | (An essential characteristic of democracy)                    | 
+
+**Value Recoded:** womenrights was recoded from 10 categories into 5 categories (Not essential, Somewhat essential,
 Moderately essential, Very essential, An essential characteristic). This was done to give a more concise view of the answers, however not distilling it into too few categories which would lose nuance.
 
-### Table 2
+### Table 2.2
 
-| Value | Label                                                         | New | Label                                      |
+| Old Value | Label                                              | New Value | Label                                      |
 |-------|---------------------------------------------------------------|-----|--------------------------------------------|
 | 0     | (It is against democracy 1 (spontaneous))                     | 1   | Not essential                              |
 | 1     | (Not an essential characteristic of democracy)                | 1   | Not essential                              |
@@ -90,6 +108,7 @@ Moderately essential, Very essential, An essential characteristic). This was don
 | 9     |   9                                                            | 5   | An essential characteristic               |
 | 10    | (An essential characteristic of democracy)                    | 5   | An essential characteristic of democracy   |
 
+
 # Analysis
 
 ## Univariate Analysis
@@ -102,7 +121,7 @@ Conducted relevent bivariate descriptive statistics, find more infromation in th
 
 # Conclusion
 
-We are 99% confident that, in Great Britain, people who believe that they live in a very good democracy also believe that women rights are essential characteristic for a democracy.   
+> We are 99% confident that, in Great Britain, people who believe that they live in a very good democracy also believe that women rights are essential characteristic for a democracy.   
 
 ## References
 EVS (2020). European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008). GESIS Data Archive, Cologne. ZA4804 Data file Version 3.1.0, [https://doi.org/10.4232/1.13486](https://doi.org/10.4232/1.13486).
