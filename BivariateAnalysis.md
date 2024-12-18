@@ -10,19 +10,19 @@ however not distilling it into too few categories which would lose nuance.
 ### Table 8
 Chi-Square tests for womenrightsRecode and democracy
 
-| Value                        | df  | Asymptotic Significance (2-sided) |
-|------------------------------|-----|----------------------------------|
-| Pearson Chi-Square           | 159.835a | <.001                        |
-| Likelihood Ratio             | 127.161 | <.001                        |
-| Linear-by-Linear Association | 114.526 | <.001                        |
-| N of Valid Cases             | 1735   |                                  |
+| | Value                        | df  | Asymptotic Significance (2-sided) |
+|-|------------------------------|-----|----------------------------------|
+| Pearson Chi-Square           | 159.835(a) | 12| <.001                        |
+| Likelihood Ratio             | 127.161 |12|  <.001                        |
+| Linear-by-Linear Association | 114.526 |1| <.001                        |
+| N of Valid Cases             | 1735   |     -|-                             |
 
 a. 7 cells (35.0%) have expected count less than 5. The minimum expected count is .22.
 
 ### Table 9
 Symmetric Measures for womenrightsRecode and democracy
 
-|Level of Measurement  | Symmetric Measures | Value                      | Asymptotic Standard Error(a) | Approximate T(b) | Approximate Significance |
+|Level of Measurement  | Symmetric Measures | Value                      | Asymptotic Standard Error(1) | Approximate T(2) | Approximate Significance |
 |--|-----|----------------------------|----------------------------|-----------------|--------------------------|
 | Nominal by Nominal  | Phi          | 0.304            |       -          |-| <.001                    |
 | Nominal by Nominal  | Cramer's V                 | 0.175                      |     -          | - | <.001          | 
@@ -30,9 +30,9 @@ Symmetric Measures for womenrightsRecode and democracy
 |Ordinal by Ordinal| Spearman Correlation       | -0.246                     | 0.025           | -10.583                  | <.001c      |
 | N of Valid Cases           | -                      |    1735             |           -               | - | -
 
-a. Not assuming the null hypothesis.
-b. Using the asymptotic standard error assuming the null hypothesis.
-c. Based on normal approximation.
+1. Not assuming the null hypothesis.
+2. Using the asymptotic standard error assuming the null hypothesis.
+3. Based on normal approximation.
 
 ### Description of findings
 
