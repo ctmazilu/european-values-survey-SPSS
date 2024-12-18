@@ -37,7 +37,7 @@ The measure of dispersion was produced in Table 6.1 and Table 6.2. The range is 
 The graphical representation for womenrightsRecode in Figure 6.1 was presented in a Pie Chart with percentages. 
 
 
-### Table 6
+### Table 5
 *Descriptive statistics for Political system: Having a democratic political system.*
 
 | Statistic  | Value  |
@@ -48,7 +48,7 @@ The graphical representation for womenrightsRecode in Figure 6.1 was presented i
 | Mode       | 1      |
 | Range      | 3      |
 
-### Table 7
+### Table 6
 *Frequency Table for Political system: Having a democratic political system.*
 
 | Category       | Frequency | Percent | Valid Percent | Cumulative Percent |
