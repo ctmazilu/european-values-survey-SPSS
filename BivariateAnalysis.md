@@ -22,13 +22,13 @@ a. 7 cells (35.0%) have expected count less than 5. The minimum expected count i
 ### Table 9
 Symmetric Measures for womenrightsRecode and democracy
 
-|  | | Value                      | Asymptotic Standard Errora | Approximate Tb | Approximate Significance |
+|Level of Measurement  | Symmetric Measures | Value                      | Asymptotic Standard Error(a) | Approximate T(b) | Approximate Significance |
 |--|-----|----------------------------|----------------------------|-----------------|--------------------------|
 | Nominal by Nominal  | Phi          | 0.304            |       -          |-| <.001                    |
 | Nominal by Nominal  | Cramer's V                 | 0.175                      |     -          | - | <.001          | 
 | Interval by Interval| Pearson's R                | -0.257                     | 0.031           | -11.070                  | <.001c    |
 |Ordinal by Ordinal| Spearman Correlation       | -0.246                     | 0.025           | -10.583                  | <.001c      |
-| N of Valid Cases           | -                      |    1735             |           -               | - |
+| N of Valid Cases           | -                      |    1735             |           -               | - | -
 
 a. Not assuming the null hypothesis.
 b. Using the asymptotic standard error assuming the null hypothesis.
