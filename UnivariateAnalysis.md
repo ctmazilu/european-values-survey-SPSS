@@ -23,7 +23,7 @@ Calculate relevant univariate descriptive statistics (measures of central tenden
 | Valid|Moderately essential   | 113       | 6.3     | 6.4           | 9.0                |
 |Valid |Very essential         | 214       | 12.0    | 12.1          | 21.1               |
 |Valid |An essential           | 1394      | 78.0    | 78.9          | 100.0              |
-|Valid |Total                  | 1767      | 98.8    | 100.0         |                    |
+|Valid |Total                  | 1767      | 98.8    | 100.0         |             -       |
 |Missing |System                 | 21        | 1.2     |         -      |         -           |
 |Total |     -             | 1788      | 100.0   |        -       |       -             |
 
