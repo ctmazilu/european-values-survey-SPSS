@@ -51,19 +51,17 @@ The graphical representation for womenrightsRecode in Figure 6.1 was presented i
 ### Table 6
 *Frequency Table for Political system: Having a democratic political system.*
 
-| Category       | Frequency | Percent | Valid Percent | Cumulative Percent |
-|----------------|-----------|---------|---------------|--------------------|
-| Valid          |           |         |               |                    |
-| Very good      | 1139      | 63.7    | 65.2          | 65.2               |
-| Fairly good    | 507       | 28.4    | 29.0          | 94.3               |
-| Fairly bad     | 80        | 4.5     | 4.6           | 98.9               |
-| Very bad       | 20        | 1.1     | 1.1           | 100.0              |
-| Total          | 1746      | 97.7    | 100.0         |                    |
-| Missing        |           |         |               |                    |
-| No answer      | 1         | 0.1     |               |                    |
-| Don’t know     | 41        | 2.3     |               |                    |
-| Total          | 42        | 2.3     |               |                    |
-| Total          | 1788      | 100.0   |               |                    |
+| | Category       | Frequency | Percent | Valid Percent | Cumulative Percent |
+|--|----------------|-----------|---------|---------------|--------------------|
+| Valid| Very good      | 1139      | 63.7    | 65.2          | 65.2               |
+| Valid| Fairly good    | 507       | 28.4    | 29.0          | 94.3               |
+| Valid| Fairly bad     | 80        | 4.5     | 4.6           | 98.9               |
+| Valid| Very bad       | 20        | 1.1     | 1.1           | 100.0              |
+| Valid| Total          | 1746      | 97.7    | 100.0         |                    |
+| Missing  | No answer      | 1         | 0.1     |          -     |       -             |
+| Missing  | Don’t know     | 41        | 2.3     |        -       |     -               |
+| Missing  | Total          | 42        | 2.3     |       -       |            -        |
+| | Total          | 1788      | 100.0   |     -          |                -    |
 
 ### Figure 2
 *Graphical representation for if Democracy*
