@@ -1,21 +1,21 @@
 # Univariate and Bivariate Analysis of European Values Survey, 2018 using SPSS
 
-## Introduction
+# Introduction
 Using the European Values Study for Great Britain (ESV, 2018) in SPSS to answer the Research Question: Is there a relationship between perceived quality of democratic political system and perceived women rights compared to men.
 
 ## Index
 - [Introduction](#introduction)
-- [Research Question](#research-question)
-- [Rationale](#rationale)
-- [Hypothesis](#hypothesis)
+  - [Research Question](#research-question)
+  - [Rationale](#rationale)
+  - [Hypothesis](#hypothesis)
 - [Data Description](#data-description)
   - [Variable description](#variable-description)
 - [Analysis](#analysis)
   - [Univariate Analysis](#univariate-Analysis)
   - [Bivariate Analysis](#bivariate-analysis)
-- [Ethical Approval](#ethical-approval)
-- [References](#references)
-- [Copyright](#copyright)
+- [Conclusion](#conclusion)
+  - [References](#references)
+  - [Copyright](#copyright)
 
   
 ## Reseach Question
@@ -41,7 +41,7 @@ Both variables are *ordinal* therefore a *crosstabulation* will be conducted. It
 **Null Hypothesis H0:** There is no significant relationship between perceived quality of democratic political system and perceived women rights compared to men.
 **Alternative Hypothesis H1:** There is a significantrelationshipbetweenperceivedqualityofdemocratic political system and perceived women rights compared to men.
 
-## Data Description
+# Data Description
 I am using EVS2018-GB.sav (EVS, 2020), the unit of analysis is ‘individuals’ in Great Britain. The sample size of the data set is 1788.
 There are 181 variables (including 4 variables which have been recoded for this exercise and others) 
 
@@ -100,7 +100,9 @@ Conducted relevent univariate descriptive statistics, find more infromation in t
 
 Conducted relevent bivariate descriptive statistics, find more infromation in the markdown file [Bivariate Analysis](#bivariateanalysis.md)
 
-## Ethical Approval 
+# Conclusion
+
+We are 99% confident that, in Great Britain, people who believe that they live in a very good democracy also believe that women rights are essential characteristic for a democracy.   
 
 ## References
 EVS (2020). European Values Study Longitudinal Data File 1981-2008 (EVS 1981-2008). GESIS Data Archive, Cologne. ZA4804 Data file Version 3.1.0, [https://doi.org/10.4232/1.13486](https://doi.org/10.4232/1.13486).
