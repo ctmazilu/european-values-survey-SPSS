@@ -1,4 +1,4 @@
-# EVS2018-GB_SPSS
+# Univariate and Bivariate Analysis of European Values Survey, 2018 using SPSS
 
 ## Introduction
 Using the European Values Study for Great Britain (ESV, 2018) in SPSS to answer the Research Question: Is there a relationship between perceived quality of democratic political system and perceived women rights compared to men.
@@ -9,9 +9,8 @@ Using the European Values Study for Great Britain (ESV, 2018) in SPSS to answer 
 - [Rationale](#rationale)
 - [Hypothesis](#hypothesis)
 - [Data Description](#data-description)
-  - [Dataset]
   - [Variable description](#variable-description)
-- [Analysis]
+- [Analysis](#analysis)
   - [Univariate Analysis](#univariate-Analysis)
   - [Bivariate Analysis](#bivariate-analysis)
 - [Ethical Approval](#ethical-approval)
@@ -93,11 +92,13 @@ Moderately essential, Very essential, An essential characteristic). This was don
 
 # Analysis
 
-## [Univariate Analysis](#univariateanalysis.md)
+## Univariate Analysis
 
-Conducted relevent univariate descriptive statistics 
+Conducted relevent univariate descriptive statistics, find more infromation in the markdown file [Univariate Analysis](#univariateanalysis.md)
 
-## [Bivariate Analysis](#bivariateanalysis.md)
+## Bivariate Analysis
+
+Conducted relevent bivariate descriptive statistics, find more infromation in the markdown file [Bivariate Analysis](#bivariateanalysis.md)
 
 ## Ethical Approval 
 
