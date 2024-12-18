@@ -117,11 +117,11 @@ Moderately essential, Very essential, An essential characteristic). This was don
 
 ## Univariate Analysis
 
-Conducted relevent univariate descriptive statistics, find more infromation in the markdown file [Univariate Analysis](#univariateanalysis.md)
+Conducted relevent univariate descriptive statistics, find more infromation in the markdown file [Univariate Analysis](#UnivariateAnalysis.md)
 
 ## Bivariate Analysis
 
-Conducted relevent bivariate descriptive statistics, find more infromation in the markdown file [Bivariate Analysis](#bivariateanalysis.md)
+Conducted relevent bivariate descriptive statistics, find more infromation in the markdown file [Bivariate Analysis](#BivariateAnalysis.md)
 
 # Conclusion
 
