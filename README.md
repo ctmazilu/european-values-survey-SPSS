@@ -48,7 +48,9 @@ There are 181 variables (including 4 variables which have been recoded for this 
 
 ## Variable description 
 
-#### **Variable Name:** democracy (variable 122)
+1. Democracy
+
+> **Variable Name:** democracy (variable 122)
 
 **Variable label:** Political system: Having a democratic political system Level of Measurement: Ordinal
 
@@ -65,6 +67,7 @@ There are 181 variables (including 4 variables which have been recoded for this 
 
 **Value Recoded:** Does not need recoding due to the variables already capturing the essential data points necessary to conduct a bivariate analysis.
 
+2. Womens Rights
 
 #### **Variable Name:** womenrights (variable 130)
 
