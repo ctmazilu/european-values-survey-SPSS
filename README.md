@@ -33,6 +33,7 @@ The level of gender equality could be seen as a measure of a democracy’s quali
 It must be kept in mind that the data is not inclusive of all gender identity, and this could be explored in further collection of data (i.e. does perceived quality of democratic political system influence if trans/non-binary people have the same (perceived) rights as men and women.). This research question can strengthen our understanding of political systems as a social institution with large capabilities for social change.
 
 ## Hypothesis 
+
 Both variables are *ordinal* therefore a *crosstabulation* will be conducted. It could go both ways, democracy could influence womenrights;womenrights could influence democracy.
 
 > **Independent variable:** democracy
@@ -40,6 +41,7 @@ Both variables are *ordinal* therefore a *crosstabulation* will be conducted. It
 > **Dependent variable:** womenrightsRecode
 
 **Null Hypothesis H0:** There is no significant relationship between perceived quality of democratic political system and perceived women rights compared to men.
+
 **Alternative Hypothesis H1:** There is a significantrelationshipbetweenperceivedqualityofdemocratic political system and perceived women rights compared to men.
 
 # Data Description
@@ -54,9 +56,9 @@ There are 181 variables (including 4 variables which have been recoded for this 
 
 **Variable label:** Political system: Having a democratic political system Level of Measurement: Ordinal
 
-**Value Label:** (negative values are not used in the analysis) 
+**Level of Measurement:** Ordinal
 
-### Table 1
+### Table 1: negative values are not used in the analysis
 
 | Value | Label         |
 |-------|---------------|
@@ -69,15 +71,13 @@ There are 181 variables (including 4 variables which have been recoded for this 
 
 2. Womens Rights
 
-#### **Variable Name:** womenrights (variable 130)
+> **Variable Name:** womenrights (variable 130)
 
 **Variable Label:** Democracy: Women have the same rights as men. Is this a essential characteristic of democracy?
 
 **Level of Measurement:** Ordinal
 
-**Value Label:** (negative values are not used in the analysis, needs recoded see next section.)
-
-### Table 2.1
+### Table 2.1: negative values are not used in the analysis, needs recoded see next section.
 
 | Value | Label                                                         | 
 |-------|---------------------------------------------------------------|
