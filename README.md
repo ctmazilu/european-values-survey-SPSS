@@ -81,7 +81,7 @@ There are 181 variables (including 4 variables which have been recoded for this 
 
 | Value | Label                                                         | 
 |-------|---------------------------------------------------------------|
-| 0     | (It is against democracy 1 (spontaneous))                     | 
+| 0     | (It is against democracy (spontaneous))                     | 
 | 1     | (Not an essential characteristic of democracy)                | 
 | 2     | 2                                                              | 
 | 3     |  3                                                             | 
